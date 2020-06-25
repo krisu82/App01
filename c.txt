@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 C aaa kkk
+=======
+C aaa kk
+ss
+ppaa
+>>>>>>> e56bc07d67475bf1096830b552eb04250215ec54
